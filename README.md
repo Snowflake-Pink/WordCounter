@@ -1,3 +1,5 @@
+# Archived(2023.03.02)
+
 # Thanks
 本项目由 [Typecho_WordsCounter](https://github.com/elatisy/Typecho_WordsCounter) 修改而来。
 # WordsCounter
